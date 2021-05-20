@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Hisab Kitab</string>
+    <string name="app_name_hindi">हिसाब किताब</string>
+
+    // Splash screen text
+    <string name="all_rights_are_reserved">All rights are reseved</string>
+    <string name="aziz_traders">Aziz Traders @ 2021</string>
+
+    //language selection activity texts
+    <string name="select_your_language">Select Your Language \n अपनी भाषा का चयन करें</string>
+    <string name="language_english_button">English</string>
+    <string name="language_hindi_button">हिन्दी</string>
+
+    //Fragment views text
+    <string name="length_english">Length</string>
+    <string name="width_english">Width</string>
+    <string name="height_english">Height</string>
+    <string name="piece_english">Piece</string>
+    <string name="total_feet_english">Total Feet</string>
+    <string name="total_money_english">Total Money</string>
+    <string name="rate_english">Rate</string>
+    <string name="percentage_english">Percentage</string>
+    <string name="button_submit_english">Submit</string>
+    <string name="button_reset_english">Reset</string>
+    <string name="button_language_english">Change Language</string>
+
+    <string name="length_hindi">लम्बाई</string>
+    <string name="width_hindi">चौड़ाई</string>
+    <string name="height_hindi">उचाई</string>
+    <string name="total_feet_hindi">टोटल फ़ीट</string>
+    <string name="total_money_hindi">टोटल हिसाब</string>
+    <string name="rate_hindi">रेट</string>
+    <string name="percentage_hindi">प्रतिशत</string>
+    <string name="button_submit_hindi">टोटल करे</string>
+    <string name="button_reset_hindi">मिटाये</string>
+    <string name="button_language_hindi">भाषा बदलें</string>
+    <string name="piece_hindi">पीस</string>
+
+    //products
+    <string name="ply_hindi">प्लाई</string>
+    <string name="door_hindi">डोर</string>
+    <string name="wood_hindi">वुड</string>
+    <string name="balu_hindi">बालू</string>
+
+    <string name="ply_english">Ply</string>
+    <string name="door_english">Door</string>
+    <string name="wood_english">Wood</string>
+    <string name="balu_english">Balu</string>
+
+</resources>
