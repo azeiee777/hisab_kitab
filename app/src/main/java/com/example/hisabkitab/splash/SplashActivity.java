@@ -2,18 +2,16 @@ package com.example.hisabkitab.splash;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.Window;
 import android.view.WindowManager;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.content.ContextCompat;
 
 import com.example.hisabkitab.app_resource.SetColor;
 import com.example.hisabkitab.home.HomeActivity;
 import com.example.hisabkitab.R;
 import com.example.hisabkitab.app_resource.AppPreference;
 import com.example.hisabkitab.app_resource.AppPrefrenceKey;
-import com.example.hisabkitab.language_selection_package.LanguageSelectionActivity;
+import com.example.hisabkitab.language_selection.LanguageSelectionActivity;
 
 public class SplashActivity extends AppCompatActivity {
 

@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.hisabkitab">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:allowBackup="true"
         android:icon="@drawable/wood"
@@ -9,6 +10,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.HisabKitab">
+
+        <!-- Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713 -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-5415428971510321~8632792939"/>
 
         <activity
             android:name=".splash.SplashActivity"
@@ -20,7 +26,7 @@
         </activity>
 
         <activity
-            android:name=".language_selection_package.LanguageSelectionActivity"
+            android:name=".language_selection.LanguageSelectionActivity"
             android:screenOrientation="portrait" />
 
         <activity

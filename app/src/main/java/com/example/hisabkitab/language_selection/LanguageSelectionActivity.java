@@ -1,4 +1,4 @@
-package com.example.hisabkitab.language_selection_package;
+package com.example.hisabkitab.language_selection;
 
 import androidx.appcompat.app.AppCompatActivity;
 
